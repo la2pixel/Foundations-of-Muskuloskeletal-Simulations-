@@ -2,7 +2,7 @@
 
 This guide is for beginners in biomechanics who know how to code but are learning how to model the human body and simulate its movement. Instead of comparing simulation tools directly, we will first build the foundations of what musculoskeletal modeling involves and then explore how different tools approach different aspects of the problem.
 
-It's worth visiting (Anatomy Lab)[https://anatomy-lab.com/] where they host a muscle library for detailed 3D models. You can also learn more about the human anatomy here!
+It's worth visiting [Anatomy Lab](https://anatomy-lab.com/) where they host a muscle library for detailed 3D models. You can also learn more about the human anatomy here!
 
 #### What Is Musculoskeletal Modeling?
 
